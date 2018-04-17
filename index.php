@@ -12,7 +12,7 @@
    <nav class="navbar navbar-inverse">
     <div class="container-fluid">
      <div class="navbar-header">
-      <a class="navbar-brand" href="#">Kashif</a>
+      <a class="navbar-brand" href="#">Kashif Posts</a>
      </div>
      <ul class="nav navbar-nav navbar-right">
       <li class="dropdown">
